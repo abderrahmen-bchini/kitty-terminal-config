@@ -44,3 +44,6 @@ Here’s a table of available colors:
 | 36    | Cyan          | `\033[36m`                    | `\033[46m`                      |
 | 37    | White         | `\033[37m`                    | `\033[47m`                      |
 | 90–97 | Bright Colors | `\033[9xm` (e.g., `\033[91m`) | `\033[10xm` (e.g., `\033[101m`) |
+
+# Final Result : 
+![Screenshot](terminal.png)
